@@ -19,9 +19,9 @@ I am a javascript back end developer, and i invest most of my time on discord bo
 [p5js-shield]:  https://img.shields.io/badge/p5.js-000001?style=for-the-badge&logo=p5.js&logoColor=red
 
 ## RoadMap
-- [] PowerCord plugin to get server join date for users
-- [] Comprehensive JSON API for Fun Discord Bot needs
-- [] Kottu Website
+- [ ] PowerCord plugin to get server join date for users
+- [ ] Comprehensive JSON API for Fun Discord Bot needs
+- [ ] Kottu Website
 - [x] Personal Website
 - [x] Kottu Plugins
 - [x] Research tool 
