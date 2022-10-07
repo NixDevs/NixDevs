@@ -18,3 +18,10 @@ I am a javascript back end developer, and i invest most of my time on discord bo
 [matterjs-shield]: https://img.shields.io/badge/Matter.js-e3e3e3?style=for-the-badge&logo=Matter.js&logoColor=green
 [p5js-shield]:  https://img.shields.io/badge/p5.js-000001?style=for-the-badge&logo=p5.js&logoColor=red
 
+## RoadMap
+- [] PowerCord plugin to get server join date for users
+- [] Comprehensive JSON API for Fun Discord Bot needs
+- [] Kottu Website
+- [x] Personal Website
+- [x] Kottu Plugins
+- [x] Research tool 
